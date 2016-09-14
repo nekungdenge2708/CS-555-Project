@@ -1,7 +1,7 @@
 /*
-Michelle Wong
+Julia Kim, Michelle Wong, Rafal Poniatowski
 CS-555
-Project 02
+GEDCOM Project
 */
 
 #include <iostream>
