@@ -6,7 +6,7 @@ Reading and Printing file...
 Level Number: 0
 Tag: HEAD
 ---------
-0 NOTE Project 01 - Michelle Wong
+0 NOTE Github: https://github.com/kichithewolf/CS-555-Project
 Level Number: 0
 Tag: NOTE
 ---------
@@ -64,7 +64,7 @@ Tag: INDI
 ---------
 1 NAME Seymour /Butz/
 Level Number: 1
-Tag: NAME
+Tag: Seymour /Butz/
 ---------
 2 GIVN Seymour
 Level Number: 2
@@ -96,7 +96,7 @@ Tag: INDI
 ---------
 1 NAME Larry /Butz/
 Level Number: 1
-Tag: NAME
+Tag: Larry /Butz/
 ---------
 2 GIVN Larry
 Level Number: 2
@@ -132,7 +132,7 @@ Tag: INDI
 ---------
 1 NAME Katie /Aldrin/
 Level Number: 1
-Tag: NAME
+Tag: Katie /Aldrin/
 ---------
 2 GIVN Katie
 Level Number: 2
@@ -172,7 +172,7 @@ Tag: INDI
 ---------
 1 NAME Fuzz /Aldrin/
 Level Number: 1
-Tag: NAME
+Tag: Fuzz /Aldrin/
 ---------
 2 GIVN Fuzz
 Level Number: 2
@@ -212,7 +212,7 @@ Tag: INDI
 ---------
 1 NAME Pawkeye /Gough/
 Level Number: 1
-Tag: NAME
+Tag: Pawkeye /Gough/
 ---------
 2 GIVN Pawkeye
 Level Number: 2
@@ -252,7 +252,7 @@ Tag: INDI
 ---------
 1 NAME Adam /Aldrin/
 Level Number: 1
-Tag: NAME
+Tag: Adam /Aldrin/
 ---------
 2 GIVN Adam
 Level Number: 2
@@ -296,7 +296,7 @@ Tag: INDI
 ---------
 1 NAME Lara /Butz/
 Level Number: 1
-Tag: NAME
+Tag: Lara /Butz/
 ---------
 2 GIVN Lara
 Level Number: 2
@@ -332,7 +332,7 @@ Tag: INDI
 ---------
 1 NAME Scott /Aldrin/
 Level Number: 1
-Tag: NAME
+Tag: Scott /Aldrin/
 ---------
 2 GIVN Scott
 Level Number: 2
@@ -376,7 +376,7 @@ Tag: INDI
 ---------
 1 NAME Paw /Revere/
 Level Number: 1
-Tag: NAME
+Tag: Paw /Revere/
 ---------
 2 GIVN Paw
 Level Number: 2
@@ -420,7 +420,7 @@ Tag: INDI
 ---------
 1 NAME Hafta /Gough/
 Level Number: 1
-Tag: NAME
+Tag: Hafta /Gough/
 ---------
 2 GIVN Hafta
 Level Number: 2
@@ -464,7 +464,7 @@ Tag: INDI
 ---------
 1 NAME Stacy /Blade/
 Level Number: 1
-Tag: NAME
+Tag: Stacy /Blade/
 ---------
 2 GIVN Stacy
 Level Number: 2
@@ -512,7 +512,7 @@ Tag: INDI
 ---------
 1 NAME Santa /Claws/
 Level Number: 1
-Tag: NAME
+Tag: Santa /Claws/
 ---------
 2 GIVN Santa
 Level Number: 2
@@ -556,7 +556,7 @@ Tag: INDI
 ---------
 1 NAME Paw /Revere/
 Level Number: 1
-Tag: NAME
+Tag: Paw /Revere/
 ---------
 2 GIVN Paw
 Level Number: 2
@@ -592,7 +592,7 @@ Tag: INDI
 ---------
 1 NAME Mary /Aldrin/
 Level Number: 1
-Tag: NAME
+Tag: Mary /Aldrin/
 ---------
 2 GIVN Mary
 Level Number: 2
@@ -628,7 +628,7 @@ Tag: INDI
 ---------
 1 NAME Mike /Aldrin/
 Level Number: 1
-Tag: NAME
+Tag: Mike /Aldrin/
 ---------
 2 GIVN Mike
 Level Number: 2
@@ -664,7 +664,7 @@ Tag: INDI
 ---------
 1 NAME David /Blade/
 Level Number: 1
-Tag: NAME
+Tag: David /Blade/
 ---------
 2 GIVN David
 Level Number: 2
@@ -708,7 +708,7 @@ Tag: INDI
 ---------
 1 NAME Sarah /Blade/
 Level Number: 1
-Tag: NAME
+Tag: Sarah /Blade/
 ---------
 2 GIVN Sarah
 Level Number: 2
@@ -897,4 +897,75 @@ Tag: Invalid tag!
 0 TRLR
 Level Number: 0
 Tag: TRLR
+---------
+-----------------------------------------------
+Printing People!
+-----------------------------------------------
+ID: 0
+UID: @I1@
+Name: Seymour /Butz/
+---------
+ID: 1
+UID: @I2@
+Name: Larry /Butz/
+---------
+ID: 2
+UID: @I3@
+Name: Katie /Aldrin/
+---------
+ID: 3
+UID: @I4@
+Name: Fuzz /Aldrin/
+---------
+ID: 4
+UID: @I5@
+Name: Pawkeye /Gough/
+---------
+ID: 5
+UID: @I6@
+Name: Adam /Aldrin/
+---------
+ID: 6
+UID: @I7@
+Name: Lara /Butz/
+---------
+ID: 7
+UID: @I8@
+Name: Scott /Aldrin/
+---------
+ID: 8
+UID: @I9@
+Name: Paw /Revere/
+---------
+ID: 9
+UID: @I10@
+Name: Hafta /Gough/
+---------
+ID: 10
+UID: @I11@
+Name: Stacy /Blade/
+---------
+ID: 11
+UID: @I12@
+Name: Santa /Claws/
+---------
+ID: 12
+UID: @I13@
+Name: Paw /Revere/
+---------
+ID: 13
+UID: @I14@
+Name: Mary /Aldrin/
+---------
+ID: 14
+UID: @I15@
+Name: Mike /Aldrin/
+---------
+ID: 15
+UID: @I16@
+Name: David /Blade/
+---------
+ID: 16
+UID: @I17@
+Name: Sarah /Blade/
 ---------
