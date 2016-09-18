@@ -1,0 +1,6 @@
+Team Members:
+- Michelle Wong
+- Julia Kim
+- Rafal Poniatowski
+
+Git Repository: https://github.com/kichithewolf/CS-555-Project
